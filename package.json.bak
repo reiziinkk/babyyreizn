@@ -13,15 +13,15 @@
   "keywords": [
     "k"
   ],
-  "author": "REIZIN",
+  "author": "RAMLAN",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/reiziinkk/beybereizin.git"
+    "url": "git+https://github.com/Ramlan666/babybot.git"
   },
   "bugs": {
-    "url": "https://github.com/reiziinkk/beybereizin/issues"
+    "url": "https://github.com/Ramlan666/babybot/issues"
   },
-  "homepage": "https://github.com/reiziinkk/beybereizin/readme",
+  "homepage": "https://github.com/Ramlan666/babybot/readme",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.3.0",
